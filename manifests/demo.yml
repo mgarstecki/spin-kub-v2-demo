@@ -17,6 +17,7 @@ metadata:
     source: demo
     stack: frontend
     app: spinnaker
+    gen: one
 spec:
   replicas: 3
   selector:
